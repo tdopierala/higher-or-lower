@@ -33,5 +33,6 @@ module.exports = {
 
 		'comma-spacing': ['error', { before: false, after: true }],
 		'no-multiple-empty-lines': ['error', { max: 1, maxEOF: 1 }],
+		'typescript-eslint/no-explicit-any': 'off',
 	},
 };
